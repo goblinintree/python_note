@@ -1,0 +1,11 @@
+# flask==3.0.3
+jsonpath==0.82.2
+black==22.8.0
+isort==5.10.1
+flake8==5.0.4
+PyMySQL==1.0.2
+django==4.2.13
+mysqlclient==2.2.4
+pillow==10.3.0
+# BytesIO io 
+
